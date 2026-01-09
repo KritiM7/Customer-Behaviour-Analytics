@@ -18,3 +18,9 @@ Dashboard Highlights: The Power BI dashboard is split into three strategic views
 1. Executive Overview: A high-level look at KPIs ($59.76 Avg Spend, 3.9K Customers). It highlights that while gender split is nearly equal, Young Adults are the primary revenue drivers.
 2. Customer Loyalty & Retention: This page identifies that 88% of our customers are Active, but a small, high-value "High Churn Risk" group needs immediate marketing intervention. It also maps revenue by segment, showing that Loyal customers provide the vast majority of stable income.
 3. Operational Analysis: Tells the "Cost of Satisfaction. Standard Shipping maintains higher satisfaction ratings than Express, suggesting we can optimize shipping costs without hurting the brand. Payment Efficiency Identified that PayPal and Credit Cards are the dominant payment methods, particularly for subscribers.
+
+My Recommendations:
+
+Retention Campaign: Launch a "We Miss You" email campaign targeting the High Churn Risk subscribers identified in Page 2.
+Shipping Optimization: Nudge customers toward Standard Shipping at checkout, as the data shows it has the highest "Review-to-Cost" ROI.
+Seasonal Inventory: Increase stock for the Clothing category 30 days prior to Summer, as it represents the highest seasonal demand peak.
